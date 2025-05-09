@@ -6,7 +6,7 @@
 
 ##  About Us
 
-**Aegix** is an AI engineering company focused on reimagining human-computer interaction from first principles.  
+**Aegix** is an AI company focused on reimagining human-computer interaction from first principles.  
 We design intelligent systems and automation layers that eliminate digital friction — with an emphasis on agentic workflows, reasoning architectures, and AI-native infrastructure.
 
 We're not just building products — we're designing cognitive environments.
