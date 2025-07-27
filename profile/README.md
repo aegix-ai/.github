@@ -1,4 +1,4 @@
-#  Aegix
+#  Aegix Technologies
 
 > Building the AI-native future — one vertical studio at a time.
 
