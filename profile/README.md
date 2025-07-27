@@ -50,7 +50,7 @@ More projects coming soon as we explore new verticals powered by Aegix Core.
 ## ⇒ Contact / Collab
 
 Early-stage, invitation-only. If you're building the future of cognition, automation, or AI-native software — we might talk.  
-**DMs open via GitHub or [sentium.uni@gmail.com]**
+**DMs open via GitHub or [team@aegixgroup.co] & [team@relicon.co]**
 
 &nbsp;
 ---
