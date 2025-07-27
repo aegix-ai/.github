@@ -13,9 +13,9 @@ We're not just building products — we're designing cognitive environments.
 
 &nbsp;
 
-## ⇒ Current Focus: ReelForge
+## ⇒ Current Focus: Relicon
 
-**ReelForge** is the **first vertical studio** under the Aegix umbrella.  
+**Relicon** Self-improving short-form video ad creator  
 It’s an AI-powered engine for automating short-form content — fast, optimized, and intelligent by design.
 
 We're experimenting with:
@@ -24,7 +24,7 @@ We're experimenting with:
 - Dynamic media generation
 - Performance-driven iteration loops
 
-ReelForge is our testbed for applied AI-native product development — more soon.
+Relicon is our testbed for applied AI-native product development — more soon.
 
 &nbsp;
 
